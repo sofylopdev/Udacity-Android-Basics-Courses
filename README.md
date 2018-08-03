@@ -34,6 +34,6 @@ The data is retrieved from the USGS service. http://earthquake.usgs.gov/fdsnws/e
 ## Android Basics: Data Storage
 
 **PetsApp**
-This app displays and saves a list of pets and their related data that the user inputs.
+This app displays and saves a list of pets and their related data.
 
 ![alt text](https://github.com/sofylopdev/Udacity-Android-Basics-Courses/blob/master/PetsApp.png)
